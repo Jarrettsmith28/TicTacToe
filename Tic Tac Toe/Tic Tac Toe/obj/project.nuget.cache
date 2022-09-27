@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "T7eHJ2x+NzaTC854Q0X2Z5UDQgeR9+/Fm9lWoTSnNnipuFhozlo/iU4ILckYpI1NEdv9FTAgMUQvcsf1c/hyIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jarretts\\source\\repos\\Tic Tac Toe\\Tic Tac Toe\\Tic Tac Toe.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dhidev-build.dhicorp.com/nuget/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://fps-build-2016/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sys.dhicorp.com/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
